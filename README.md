@@ -3,6 +3,6 @@
 
 In this project, we calculate real life distance between two human bounding boxes from pixel distance between them.<br>
 We employ a dynamic scaling factor to convert the pixel distances into real life distances. We propose a model whereby we use both average human height and human width as calibration factor. <br>
-
+We provide a video demonstration of the model working in real time.
 https://user-images.githubusercontent.com/41645324/134756508-53666079-0fd9-4d2b-b148-9b23bd893058.mp4
 
